@@ -11,5 +11,7 @@ int main()
 
     cout << "Привіт, Вадим!" <<endl;
 
+    cout << "Hello, Lab7" << endl;
+
     system("pause");
 }
