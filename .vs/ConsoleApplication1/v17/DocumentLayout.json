@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\\u0412\u0430\u0434\u0438\u043C\\Desktop\\Lab 12\\clone1\\",
+  "WorkspaceRootPath": "C:\\Users\\\u0412\u0430\u0434\u0438\u043C\\Desktop\\Lab 12\\clone2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4CEE007C-A807-4DC0-8346-9C4F3EB0CFA4}|ConsoleApplication1\\ConsoleApplication1.vcxproj|C:\\Users\\\u0412\u0430\u0434\u0438\u043C\\Desktop\\Lab 12\\clone1\\ConsoleApplication1\\ConsoleApplication1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{4CEE007C-A807-4DC0-8346-9C4F3EB0CFA4}|ConsoleApplication1\\ConsoleApplication1.vcxproj|C:\\Users\\\u0412\u0430\u0434\u0438\u043C\\Desktop\\Lab 12\\clone2\\ConsoleApplication1\\ConsoleApplication1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{4CEE007C-A807-4DC0-8346-9C4F3EB0CFA4}|ConsoleApplication1\\ConsoleApplication1.vcxproj|solutionrelative:ConsoleApplication1\\ConsoleApplication1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "ConsoleApplication1.cpp",
-              "DocumentMoniker": "C:\\Users\\\u0412\u0430\u0434\u0438\u043C\\Desktop\\Lab 12\\clone1\\ConsoleApplication1\\ConsoleApplication1.cpp",
+              "DocumentMoniker": "C:\\Users\\\u0412\u0430\u0434\u0438\u043C\\Desktop\\Lab 12\\clone2\\ConsoleApplication1\\ConsoleApplication1.cpp",
               "RelativeDocumentMoniker": "ConsoleApplication1\\ConsoleApplication1.cpp",
-              "ToolTip": "C:\\Users\\\u0412\u0430\u0434\u0438\u043C\\Desktop\\Lab 12\\clone1\\ConsoleApplication1\\ConsoleApplication1.cpp",
+              "ToolTip": "C:\\Users\\\u0412\u0430\u0434\u0438\u043C\\Desktop\\Lab 12\\clone2\\ConsoleApplication1\\ConsoleApplication1.cpp",
               "RelativeToolTip": "ConsoleApplication1\\ConsoleApplication1.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAiAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-09-09T16:04:48.847Z",
               "EditorCaption": ""

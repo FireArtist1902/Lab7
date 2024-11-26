@@ -22,5 +22,7 @@ int main()
 
     cout << sum(3, 5) << endl;
 
+    cout << "Clone 2 branch" << endl;
+
     system("pause");
 }
